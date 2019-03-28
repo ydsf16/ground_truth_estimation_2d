@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yds/projects/ground_truth_estimation_2d/build/devel/setup.sh
